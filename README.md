@@ -285,6 +285,8 @@ If you encounter any issues or have questions:
 
 **Happy Blogging! 🎉**
 
-#   b l o g - a p p  
- #   b l o g - a p p  
+#   b l o g - a p p 
+ 
+ #   b l o g - a p p 
+ 
  
